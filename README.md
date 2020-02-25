@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+
+Hello, my name is Aida.
+I am new here :)
